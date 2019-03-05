@@ -9,4 +9,4 @@ const bmiCalculator = (weight, height) => {
     }
 }
 
-bmiCalculator(65,1.8);
+//Call the function with parameters 
